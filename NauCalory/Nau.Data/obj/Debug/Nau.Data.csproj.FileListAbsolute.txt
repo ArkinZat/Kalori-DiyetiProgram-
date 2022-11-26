@@ -1,0 +1,12 @@
+C:\Users\marha\source\repos\NauCalory\Nau.Data\bin\Debug\Nau.Data.dll
+C:\Users\marha\source\repos\NauCalory\Nau.Data\bin\Debug\Nau.Data.pdb
+C:\Users\marha\source\repos\NauCalory\Nau.Data\obj\Debug\Nau.Data.csproj.CoreCompileInputs.cache
+C:\Users\marha\source\repos\NauCalory\Nau.Data\obj\Debug\Nau.Data.dll
+C:\Users\marha\source\repos\NauCalory\Nau.Data\obj\Debug\Nau.Data.pdb
+C:\Users\marha\source\repos\NauCalory\Nau.Data\obj\Debug\Nau.Data.csproj.AssemblyReference.cache
+C:\Users\marha\OneDrive\Masaüstü\Pojeler\NauCaloryyy\ÜçSilahşörler-NauKaloriTakibi\NauCalory\Nau.Data\bin\Debug\Nau.Data.dll
+C:\Users\marha\OneDrive\Masaüstü\Pojeler\NauCaloryyy\ÜçSilahşörler-NauKaloriTakibi\NauCalory\Nau.Data\bin\Debug\Nau.Data.pdb
+C:\Users\marha\OneDrive\Masaüstü\Pojeler\NauCaloryyy\ÜçSilahşörler-NauKaloriTakibi\NauCalory\Nau.Data\obj\Debug\Nau.Data.csproj.AssemblyReference.cache
+C:\Users\marha\OneDrive\Masaüstü\Pojeler\NauCaloryyy\ÜçSilahşörler-NauKaloriTakibi\NauCalory\Nau.Data\obj\Debug\Nau.Data.csproj.CoreCompileInputs.cache
+C:\Users\marha\OneDrive\Masaüstü\Pojeler\NauCaloryyy\ÜçSilahşörler-NauKaloriTakibi\NauCalory\Nau.Data\obj\Debug\Nau.Data.dll
+C:\Users\marha\OneDrive\Masaüstü\Pojeler\NauCaloryyy\ÜçSilahşörler-NauKaloriTakibi\NauCalory\Nau.Data\obj\Debug\Nau.Data.pdb
